@@ -1,0 +1,10 @@
+i*
+i+i*(i+i+i)
+i+i(
+i+i*(i
+i()
+x+i
+i+j
+i*(i)
+i+i/-i
+(i-i)*i/i

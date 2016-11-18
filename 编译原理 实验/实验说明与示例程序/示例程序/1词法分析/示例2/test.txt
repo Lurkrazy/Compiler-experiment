@@ -1,0 +1,24 @@
+//testing.pl0
+const  pai=3.14;
+var s,r;
+procedure square;
+begin
+   r:=r*r;
+end;
+begin
+  r=2;
+call square;
+s:=pai*r
+end.
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1383146044 source:e:\a数学 ，语文，物理  && c语言学习资料\2013编译原理\编译原理报告-孙权\program4\main.cpp
+	<iostream>
+	<cstdio>
+	<stack>
+	<string>
+	<cstring>
+	<map>
+
+1383631709 source:c:\documents and settings\实验教学中心\桌面\编译原理报告-孙权\program4\main.cpp
+	<iostream>
+	<cstdio>
+	<stack>
+	<string>
+	<cstring>
+	<map>
+
+1383632261 source:c:\documents and settings\实验教学中心\桌面\program4\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<stack>
+	<string>
+	<cstring>
+	<map>
+

@@ -1,0 +1,19 @@
+program test&
+
+ begin
+
+       3j := 200 ;
+
+if(j > 100) then       
+
+  j := 300&&&&
+
+else
+
+  j := 107870
+
+gyt768%^
+
+ 
+
+end. #

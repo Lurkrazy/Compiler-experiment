@@ -1,0 +1,14 @@
+int main()
+{
+   int i,ans;
+   char c;
+   scan c;
+   double b=1.5;
+   float f;
+   for(i=0;i<5;i=i+1)
+   {
+       ans=ans+1;
+   }
+   print ans;
+   return 0;
+}
